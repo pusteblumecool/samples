@@ -1,8 +1,22 @@
 {
-  "_base": "https://raw.githubusercontent.com/pusteblumecool/samples/main/",
   "vox": [
-    "vox/likeu.mp3",
-    "vox/vocal1.mp3",
-    "vox/vocal2.mp3"
+    "likeu.mp3",
+    "nobodyanciesu.mp3",
+    "nobodyfncy.mp3",
+    "nofancyu.mp3",
+    "rsontodanc.mp3",
+    "seemsliku.mp3",
+    "vocal1.mp3",
+    "vocal10.mp3",
+    "vocal11.mp3",
+    "vocal12.mp3",
+    "vocal2.mp3",
+    "vocal3.mp3",
+    "vocal4.mp3",
+    "vocal5.mp3",
+    "vocal6.mp3",
+    "vocal7.mp3",
+    "vocal8.mp3",
+    "vocal9.mp3"
   ]
 }
