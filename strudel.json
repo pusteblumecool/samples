@@ -1,0 +1,46 @@
+{
+  ".git": [
+    "FETCH_HEAD",
+    "HEAD",
+    "config",
+    "config.worktree",
+    "description",
+    "hooks/applypatch-msg.sample",
+    "hooks/commit-msg.sample",
+    "hooks/fsmonitor-watchman.sample",
+    "hooks/post-update.sample",
+    "hooks/pre-applypatch.sample",
+    "hooks/pre-commit.sample",
+    "hooks/pre-merge-commit.sample",
+    "hooks/pre-push.sample",
+    "hooks/pre-rebase.sample",
+    "hooks/pre-receive.sample",
+    "hooks/prepare-commit-msg.sample",
+    "hooks/push-to-checkout.sample",
+    "hooks/sendemail-validate.sample",
+    "hooks/update.sample",
+    "index",
+    "info/exclude",
+    "logs/HEAD",
+    "logs/refs/heads/main",
+    "logs/refs/remotes/origin/main",
+    "objects/01/f3a5b06109853db73fdaa62aa995717e8285f9",
+    "objects/09/68436fd600e3874954d5fe50d00ca752e1417f",
+    "objects/0d/37103493a5180747399f5afd591d140ac97430",
+    "objects/4a/73aae02ad43f6ad983f6ee2903d15bcaf7ac3c",
+    "objects/5a/6893de5e5777a5ad67f65d13ac285f5637bd15",
+    "objects/72/4c811d3dcd1482ba0d3d0c93db02770a778e52",
+    "objects/b4/785957bc986dc39c629de9fac9df46972c00fc",
+    "objects/d7/fb189197a0072401daf24ad6b5bb02a8a12565",
+    "objects/ff/6223cd3b90d1b752c19be7a022e2bb79f13f13",
+    "refs/heads/main",
+    "refs/remotes/origin/main",
+    "shallow"
+  ],
+  ".github": [
+    "workflows/main.yml"
+  ],
+  "vox": [
+    "s"
+  ]
+}
