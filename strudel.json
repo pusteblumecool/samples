@@ -16,7 +16,11 @@
     "kk/SOPHIE_kick_dry_15.wav",
     "kk/kicks"
   ],
-  "snare": "snare/read",
+  "snare": [
+    "snare/MO_HA_snare_rip.wav",
+    "snare/OLIVER_DWILLY_snare_tight_machine_attack.wav",
+    "snare/read"
+  ],
   "vox": [
     "vox/likeu.mp3",
     "vox/nobodyanciesu.mp3",
