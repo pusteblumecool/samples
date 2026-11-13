@@ -1,5 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/pusteblumecool/samples/main/",
+  "hello": "hello/dings",
   "kk": [
     "kk/FSS_S2MHEV5_Kick_Power.wav",
     "kk/OS_ATL_kick_stoner.wav",
