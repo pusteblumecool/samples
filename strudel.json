@@ -32,8 +32,7 @@
   "perc": "perc/MO_HA_perc_bubble.wav",
   "snare": [
     "snare/MO_HA_snare_rip.wav",
-    "snare/OLIVER_DWILLY_snare_tight_machine_attack.wav",
-    "snare/read"
+    "snare/OLIVER_DWILLY_snare_tight_machine_attack.wav"
   ],
   "vox": [
     "vox/likeu.mp3",
@@ -59,7 +58,6 @@
   "vv": [
     "vv/VOX_VIIQ_150_vocal_hook_digital_dry_Emaj.wav",
     "vv/VOX_VIIQ_150_vocal_synth_digital_Emaj.wav",
-    "vv/WW_OLYA_150_vocal_chop_topline_Fm.wav",
-    "vv/read"
+    "vv/WW_OLYA_150_vocal_chop_topline_Fm.wav"
   ]
 }
