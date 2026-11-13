@@ -1,9 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/pusteblumecool/samples/main/",
-  "clap": [
-    "clap/KSHMR_sok5_clap_hand_medium_snappy.wav",
-    "clap/read"
-  ],
+  "clap": "clap/KSHMR_sok5_clap_hand_medium_snappy.wav",
   "hat": [
     "hat/MO_HA_hat_marine.wav",
     "hat/SOPHIE_hihat_closed_04.wav",
