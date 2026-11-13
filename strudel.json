@@ -4,7 +4,10 @@
     "clap/KSHMR_sok5_clap_hand_medium_snappy.wav",
     "clap/read"
   ],
-  "hat": "hat/rat",
+  "hat": [
+    "hat/MO_HA_hat_marine.wav",
+    "hat/rat"
+  ],
   "hello": [
     "hello/MO_TENNY_101_songstarter_guitar_trainbells_Dbmaj.wav",
     "hello/SA_MU_150_electric_guitar_loop_chords_fading_Amaj.wav",
