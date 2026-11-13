@@ -10,6 +10,7 @@
     "hello/dings",
     "hello/nw_bpid_80_acoustic_guitar_fly_lofi_Emaj.wav"
   ],
+  "hello_synth": "hello_synth/read",
   "kk": [
     "kk/FSS_S2MHEV5_Kick_Power.wav",
     "kk/OS_ATL_kick_stoner.wav",
