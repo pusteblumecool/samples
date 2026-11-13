@@ -1,6 +1,13 @@
 {
   "_base": "https://raw.githubusercontent.com/pusteblumecool/samples/main/",
-  "hello": "hello/dings",
+  "hello": [
+    "hello/MO_TENNY_101_songstarter_guitar_trainbells_Dbmaj.wav",
+    "hello/SA_MU_150_electric_guitar_loop_chords_fading_Amaj.wav",
+    "hello/VOX_VIIQ_90_electric_guitar_cry_chords_layered_lead_Amin.wav",
+    "hello/WW_OLYA_150_vocal_chop_topline_Fm(1).wav",
+    "hello/dings",
+    "hello/nw_bpid_80_acoustic_guitar_fly_lofi_Emaj.wav"
+  ],
   "kk": [
     "kk/FSS_S2MHEV5_Kick_Power.wav",
     "kk/OS_ATL_kick_stoner.wav",
