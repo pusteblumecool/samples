@@ -1,6 +1,9 @@
 {
   "_base": "https://raw.githubusercontent.com/pusteblumecool/samples/main/",
-  "clap": "clap/read",
+  "clap": [
+    "clap/KSHMR_sok5_clap_hand_medium_snappy.wav",
+    "clap/read"
+  ],
   "hat": "hat/rat",
   "hello": [
     "hello/MO_TENNY_101_songstarter_guitar_trainbells_Dbmaj.wav",
