@@ -37,5 +37,10 @@
     "vox/vocal9.mp3"
   ],
   "vox2": "vox2/s",
-  "vv": "vv/read"
+  "vv": [
+    "vv/VOX_VIIQ_150_vocal_hook_digital_dry_Emaj.wav",
+    "vv/VOX_VIIQ_150_vocal_synth_digital_Emaj.wav",
+    "vv/WW_OLYA_150_vocal_chop_topline_Fm.wav",
+    "vv/read"
+  ]
 }
