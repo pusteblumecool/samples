@@ -1,6 +1,15 @@
 {
   "_base": "https://raw.githubusercontent.com/pusteblumecool/samples/main/",
-  "breaks": "breaks/ds",
+  "breaks": [
+    "breaks/DS_HT_150_drum_break_great.wav",
+    "breaks/KMRBI_LB_135_drum_loop_jungle_mania_stretched.wav",
+    "breaks/KMRBI_LB_140_drum_loop_solace.wav",
+    "breaks/KMRBI_LB_145_drum_loop_request.wav",
+    "breaks/MO_HA_160_drum_loop_running.wav",
+    "breaks/TAMUZ_SD_90_drum_this_is_funky.wav",
+    "breaks/TSP_OVERVIEW_WINGZ_172_drum_break_rollersmate_full.wav",
+    "breaks/ds"
+  ],
   "clap": "clap/KSHMR_sok5_clap_hand_medium_snappy.wav",
   "hat": [
     "hat/MO_HA_hat_marine.wav",
