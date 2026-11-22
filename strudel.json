@@ -1,6 +1,9 @@
 {
   "_base": "https://raw.githubusercontent.com/pusteblumecool/samples/main/",
-  "XBass": "XBass/dd",
+  "XBass": [
+    "XBass/808_main_funda_C.wav",
+    "XBass/dd"
+  ],
   "breaks": [
     "breaks/DS_HT_150_drum_break_great.wav",
     "breaks/KMRBI_LB_135_drum_loop_jungle_mania_stretched.wav",
