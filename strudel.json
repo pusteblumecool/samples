@@ -55,10 +55,7 @@
     "snare/MO_HA_snare_rip.wav",
     "snare/OLIVER_DWILLY_snare_tight_machine_attack.wav"
   ],
-  "tops": [
-    "tops/SO_HB_152_perc_loop_metal_wings.wav",
-    "tops/s"
-  ],
+  "tops": "tops/SO_HB_152_perc_loop_metal_wings.wav",
   "vox": [
     "vox/likeu.mp3",
     "vox/nobodyanciesu.mp3",
