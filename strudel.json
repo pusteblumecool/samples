@@ -1,6 +1,14 @@
 {
   "_base": "https://raw.githubusercontent.com/pusteblumecool/samples/main/",
-  "XBass": "XBass/808_main_funda_C.wav",
+  "XBass": [
+    "XBass/808_main_funda_C.wav",
+    "XBass/KMRBI_GHS_bass_synth_long_C.wav",
+    "XBass/MO_FN_synth_fm_airgrab_ui_C.wav",
+    "XBass/MO_SOCHI_bass_emo_rage_C.wav",
+    "XBass/MO_SOCHI_bass_nuclearer_C.wav",
+    "XBass/MO_US_bass_sucker_reso_C.wav",
+    "XBass/UMRU_bass_laser_acab_C.wav"
+  ],
   "XFile": [
     "XFile/KMRBI_GHS_synth_pluck_C.wav",
     "XFile/MO_DJH_synth_distantfanfare_C.wav",
